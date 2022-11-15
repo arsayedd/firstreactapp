@@ -1,0 +1,26 @@
+.copyright {
+    background-color: #1a252f;
+}
+.center {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    padding: 1.5rem;
+}
+.center:hover {
+    background:#fff;
+}
+.center:hover i{
+    color: black !important;
+}
+
+
+footer a {
+    text-decoration: none !important;
+    color: white !important;
+}
